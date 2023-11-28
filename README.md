@@ -199,7 +199,7 @@ header('location: ../index.php');
 ?>
 ```
 
-### hayouts
+### layouts
 
 Untuk menyimpan tampilan utama pada website, dan dibagi pada beberapa file
 
