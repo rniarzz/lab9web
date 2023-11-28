@@ -78,7 +78,8 @@ media="screen" />
 
 ### Halaman About
 
-![Uploading Screenshot (510).png…]()
+![Screenshot (510)](https://github.com/rniarzz/lab9web/assets/115542704/40157abf-a063-4b8a-a787-d2e82e6a4622)
+
 
 
 
