@@ -373,6 +373,7 @@ File utama dan berfungsi sebagai wadah untuk memanggil sub-file di beberapa dire
 
 #### Hapus barang
 
+![IMG_20231128_211235](https://github.com/rniarzz/lab9web/assets/115542704/83c0b779-069a-4276-9216-bbf7fd5a2b59)
 
 ![Screenshot (520)](https://github.com/rniarzz/lab9web/assets/115542704/dcbe56f5-2678-4b24-bb29-6b6d542833e9)
 
