@@ -70,7 +70,15 @@ media="screen" />
 <?php require('footer.php'); ?>
 ```
 
+## Output
 
+### Halaman Home
+
+![Screenshot (509)](https://github.com/rniarzz/lab9web/assets/115542704/30eed0bb-84b8-425e-8e2e-5093e8a2247a)
+
+### Halaman About
+
+![Uploading Screenshot (510).png…]()
 
 
 
